@@ -2,7 +2,7 @@
 - 👀 I’m interested in web code
 - 🌱 I’m currently learning Zero to master web dev
 - 💞️ I’m looking to collaborate on a project related to this subject
-- 📫 How to reach me: coupec.legrandoutlook.com
+- 📫 How to reach me: coupec.legrand@outlook.com
 
 <!---
 legrandBenjo/legrandBenjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
